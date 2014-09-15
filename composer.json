@@ -1,0 +1,12 @@
+{
+    "name": "rmasters/reflection-casts",
+    "autoload": {
+        "psr-4": {
+            "Rmasters\\ReflectionCast\\": "src",
+            "Rmasters\\ReflectionCast\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4"
+    }
+}
